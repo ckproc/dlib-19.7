@@ -1,0 +1,1 @@
+/home/ckp/dlib-19.7/examples/build/dlib_build/cudnn_test_build/CMakeFiles/cudnn_test.dir
